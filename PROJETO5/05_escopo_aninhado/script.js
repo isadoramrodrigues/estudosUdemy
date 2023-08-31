@@ -16,4 +16,3 @@ console.log(a);
 
 multiplicar(3,7);
 
-console.log("oi");
